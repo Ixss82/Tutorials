@@ -59,6 +59,8 @@ This repository contains anything and everything relating to quantum computing a
 | [Adding repos guideline](#guide) | Prerequisities |
 | :---         |    :---: |
 | [A claim that we have a fundemental theory for physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/) ![badge](https://img.shields.io/badge/3_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/A_taste_for_physics-yellow.svg) |
+| :---         |    :---: |
+| [What Can We Do with a Quantum Computer?] (https://www.ias.edu/ideas/2014/ambainis-quantum-computing) ![badge] (https://img.shields.io/badge/2_Hours_-Beginner-green.svg)| ![badge](https://img.shields.io/badge/Popular_Science_Level-yellow.svg) |
 
 
 
